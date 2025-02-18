@@ -17,14 +17,14 @@ export const ReactData = [
 		title: "Medical store management system",
 		desc: " It is an essential tool for modern pharmacies to operate easily,provide better service to customers and generate bills.",
 		tech: ["HTML", "CSS",  "TailwindCss","javascript"],
-		gitlink: "//https:github.com/satyamyadav04/medical-store-management-system.git",
+		gitlink: "https://github.com/satyamyadav04/medical-store-management-system.git",
 		site: "//medstore-management.netlify.app",
 	},
 	{
 		title: "Editor",
 		desc: "A real-time code editor using Socket.IO allows multiple users to collaboratively edit code simultaneously. Changes made by one user are instantly reflected on the screens of all other users connected to the same session.",
 		tech: ["React.js", "socket.io", "TailwindCss"],
-		gitlink: "//https:github.com/satyamyadav04/editor.git",
+		gitlink: "https://github.com/satyamyadav04/editor.git",
 		// site: "//titan-motors.vercel.app/",
 	},
 	{
