@@ -38,21 +38,21 @@ export const ReactData = [
 			"Axios",
 			"Context API",
 		],
-		gitlink: "//github.com/Pappyjay23/netflix-clone",
+		gitlink: "",
 		site: "//netflix-vp.vercel.app",
 	},
 	{
 		title: "Todo App",
 		desc: "A todo list web app",
 		tech: ["React.js", "Css", "PWAs"],
-		gitlink: "//www.github.com/Pappyjay23/todo-list",
+		gitlink: "",
 		site: "//todo-list-v0.netlify.app",
 	},
 	{
 		title: "Digitaly",
 		desc: "A website for a digital marketing agency",
 		tech: ["React.js", "TailwindCss", "Framer Motion"],
-		gitlink: "//github.com/Pappyjay23/Digitaly",
+		gitlink: "",
 		site: "//digitaly.netlify.app/",
 	},
 ];
@@ -78,7 +78,7 @@ export const VueData = [
 		title: "ArtSphere",
 		desc: "A platform to showcase beautiful image collections.",
 		tech: ["Vue.js", "APIs", "TailwindCss", "Firebase", "Vue-Router"],
-		gitlink: "//github.com/Pappyjay23/ArtSphere",
+		gitlink: "",
 		site: "//art-sphere-gallery.vercel.app/",
 	},
 	{
