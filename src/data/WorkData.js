@@ -40,13 +40,13 @@ export const ReactData = [
 		gitlink: "",
 		site: "//netflix-vp.vercel.app",
 	},
-	{
-		title: "Tax Assistant",
-		desc: "A Tax Assistant web app",
-		tech: ["React.js", "TailwindCss", ],
-		gitlink: "https://github.com/satyamyadav04/tax-assistant.git",
-		site: "//tax-assistant07.netlify.app",
-	},
+	// {
+	// 	title: "Tax Assistant",
+	// 	desc: "A Tax Assistant web app",
+	// 	tech: ["React.js", "TailwindCss", ],
+	// 	gitlink: "https://github.com/satyamyadav04/tax-assistant.git",
+	// 	site: "//tax-assistant07.netlify.app",
+	// },
 	{
 		title: "Digitaly",
 		desc: "A website for a digital marketing agency",
