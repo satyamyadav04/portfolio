@@ -35,7 +35,6 @@ export const ReactData = [
 			"Firebase",
 			"TailwindCss",
 			"APIs",
-			"Axios",
 			"Context API",
 		],
 		gitlink: "",
