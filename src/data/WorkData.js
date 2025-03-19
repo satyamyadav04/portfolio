@@ -42,11 +42,11 @@ export const ReactData = [
 		site: "//netflix-vp.vercel.app",
 	},
 	{
-		title: "Todo App",
-		desc: "A todo list web app",
-		tech: ["React.js", "Css", "PWAs"],
-		gitlink: "",
-		site: "//todo-list-v0.netlify.app",
+		title: "Tax Assistant",
+		desc: "A Tax Assistant web app",
+		tech: ["React.js", "TailwindCss", ],
+		gitlink: "https://github.com/satyamyadav04/tax-assistant.git",
+		site: "//tax-assistant07.netlify.app",
 	},
 	{
 		title: "Digitaly",
